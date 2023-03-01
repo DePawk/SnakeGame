@@ -1,0 +1,2 @@
+C:\Users\Daniel Zaharan\source\repos\Snakegame\Debug\Snakegame.exe
+C:\Users\Daniel Zaharan\source\repos\Snakegame\Debug\Snakegame.pdb
